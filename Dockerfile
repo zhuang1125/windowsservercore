@@ -1,1 +1,1 @@
-From windowsservercore
+From microsoft/dotnet-samples:dotnetapp-nanoserver
